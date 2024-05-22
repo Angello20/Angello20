@@ -1,4 +1,5 @@
-## Hi, I am Angello Vividea👋
+<h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+
 
 <!--
 **Angello20/Angello20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
