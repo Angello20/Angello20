@@ -108,6 +108,10 @@
   <a href="https://kotlinlang.org/" target="_blank">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://www.json.org/" target="_blank">
+    <img alt="JSON" src="https://img.shields.io/badge/JSON%20-%23000000.svg?style=plastic&logo=json&logoColor=white">
+  </a>
 </p>
 
 
