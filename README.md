@@ -93,6 +93,10 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
   </a>
