@@ -63,6 +63,53 @@
 </p>
 
 
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width="50px"> </picture> Tools and Technologies
+
+<p align="center">
+  &emsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET%20-%235C2D91.svg?style=plastic&logo=dot-net&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://spring.io/" target="_blank">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express%20-%23000000.svg?style=plastic&logo=express&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white">
+  </a>
+</p>
+
+
 <!--
 **Angello20/Angello20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
