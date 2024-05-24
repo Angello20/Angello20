@@ -124,6 +124,10 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="https://getfedora.org/" target="_blank">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white">
+  </a>
 </p>
 
 <br> 
