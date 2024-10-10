@@ -51,13 +51,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?style=plastic&logo=csharp&logoColor=white">
   </a>
   &emsp;
-  <a href="https://racket-lang.org/" target="_blank">
-    <img alt="Racket" src="https://img.shields.io/badge/Racket%20-%23CC6699.svg?style=plastic&logo=racket&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.swi-prolog.org/" target="_blank">
-    <img alt="Prolog" src="https://img.shields.io/badge/Prolog%20-%2300ADD8.svg?style=plastic&logo=prolog&logoColor=white">
-  </a>
+  
 
   
 </p>
