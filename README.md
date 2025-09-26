@@ -11,7 +11,6 @@
 - :technologist: I love using software to design and deliver practical `solutions`.
 - :hammer_and_wrench: Hands-on experience with `Flutter`, `.NET Core`, and `SQL databases`.
 - :nerd_face: Always eager to `learn new technologies` and improve my skills.
-- :briefcase: I’m currently open to `job opportunities` — here is [MY RESUME](https://drive.google.com/file/d/1e7skrQs_iqkGgu8ARnPQeNc9tZ6X-8Wh/view?usp=sharing).
 <br>
 
 
